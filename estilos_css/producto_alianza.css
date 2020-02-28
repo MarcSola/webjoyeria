@@ -1,0 +1,273 @@
+@charset "utf-8";
+
+#cuerpo		{
+			position: relative;
+			top:0px;
+			left: 0px;
+			height: auto;
+			width: 100%;
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			height: 500px;
+			width: 850px;
+			}
+
+.mitad{
+	position: relative;
+	margin-top: 30px;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 49.5%;
+	padding: 3px;
+
+}
+#mitad_izquierda{
+	position: relative;
+	float:left;
+	margin-top: 40px;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 42%;
+	
+
+}
+
+#imagen_grande{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: 350px;
+	width: 100%;
+	border-radius: 25px;
+	border: 2px solid white;
+
+}
+
+#imagen_grande img {height: 350px; }
+
+.titulo_fotos_colores{
+	position: relative;
+	margin: 0 auto;
+	margin-top: 20px;
+	margin-bottom: 10px;
+	top: 0px;
+	left: 0px;
+	width: 27%;
+	text-align: center;
+	font-size: 150%;
+	border-bottom: 1px solid rgb(40,40,40);
+}
+.titulo_fotos_colores_2{
+	width: 21%;
+}
+.fotos_colores{
+	position: relative;
+	margin-top: 3px;
+	margin-bottom: 10px;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 98.5%;
+	padding: 3px;
+	
+}
+
+.fotos_colores_2{
+	margin-bottom: 30px;
+}
+
+.foto_color{
+	position: relative;
+	float: left;
+	margin: 3px;
+	top: 0px;
+	left: 0px;
+	height: 109px;
+	width: 109px;
+}
+
+.foto_color img {
+	width: 109px; height: 109px;
+}
+
+#mitad_derecha{
+
+	position: relative;
+	margin-top: 10px;
+	float:right;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 44%;	
+	padding-top: 30px;
+	
+	
+}
+
+#titulo_reloj{
+	position: relative;
+	margin: 0 auto;
+	margin-bottom: 10px;
+	top: 0px;
+	left: 0px;
+	width: 100%;
+	padding-bottom: 5px;
+	text-align: left;
+	font-size: 20px;
+	font-weight: bold;
+	
+
+}
+
+.div_padre_caracteristicas{
+	position: relative;
+	margin-top: 3px;
+	margin-left: 3px;
+	margin-right: 3px;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	padding: 5px;
+	color:#1e1e1e;
+	font-size: 85%;
+
+}
+
+.div_hijo_caracteristicas_d{
+	position: relative;
+	float: right;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 50%;
+	padding-left: 3px;
+	margin-left: 7px;
+}
+
+.div_hijo_caracteristicas_i{
+	position: relative;
+	top: 0px;
+	left: 0px;
+	height: auto;
+	width: 50%;
+	text-align: left;
+	
+
+}
+
+#transparente{
+		position: fixed;
+		top:0px;
+		left:0px;
+		height: 100%;
+		width:100%;
+		background-color: black;
+		z-index: 3;
+		opacity: 0.8;
+		margin: 0px;
+		display: none;
+}
+
+#photo_ampliada{
+		position: fixed;
+		margin-left: -275px;
+		top: 130px;
+		left:50%;
+		/*height: 500px;*/
+		width: 550px;
+		background-size: contain;
+		background-color: black;
+		border-radius: 15px;
+		opacity: 1;
+		z-index: 3;
+		display:none;	
+}
+
+#close{
+		position: fixed;
+		margin-right: -260px;
+		top: 140px;
+		right: 50%;
+		height: 30px;
+		width: 30px;
+		background-image: url(../photos/cross.png);
+		background-size:cover; 
+		cursor:pointer;
+		display: none;
+		z-index: 3;
+}
+#lupa{
+		position: relative;
+		height: 350px;
+		width: 350px;
+		background-image: url(../photos/loupe.png);
+		background-size: cover; 
+		background-position: 99% 99%;
+		background-size: 30px 30px;
+		background-repeat: no-repeat;
+		cursor: pointer;
+		z-index: 1;
+}
+
+#anillo_tipo{
+		position: relative;
+		top: 0px;
+		left: 365px;
+		height: 40px;
+		width: 140px;
+		font-size: 15px;
+		color: #7c6054;
+		/*background-color: green;*/
+}
+
+#referencia{
+		position: relative;
+		top: 0px;
+		left:0px;
+		width:350px;
+		height:18px;
+		color:#1e1e1e;
+}
+
+#descripcion{
+		position: relative;
+		top: 0px;
+		left:0px;
+		width: 374px;
+		height: auto;
+		font-size:100%;
+		vertical-align: baseline;
+		color:#1e1e1e;
+}
+
+#mas_info{
+		position:relative;
+		top:0px;
+		left:0px;
+		margin: 0;
+	    padding: 0;
+	    border: 0;
+	    font: inherit;
+	    font-size: 100%;
+	    font-weight: bold;
+	    vertical-align: baseline;
+	    color:#1e1e1e;
+}
+
+#big_daddy{
+		position: relative;
+		top: 0px;
+		left:0px;
+		width: 374px;
+		height:auto;
+		border-top: 1px solid #ccc;
+		border-bottom: 1px solid #ccc;
+}
+

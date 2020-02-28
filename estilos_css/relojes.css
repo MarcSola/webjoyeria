@@ -1,0 +1,248 @@
+@charset "utf-8";
+
+#cuerpo		{
+			top:0px;
+			left: 0px;
+			height: 400px;
+			width: 100%;
+			position: relative;
+			
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			height:400px;
+			width: 850px;
+			background-color:white;
+			}
+
+#div_marcas{
+			position: relative;
+			top: 50px;
+			margin: 0 auto;
+			height: 300px;
+			width: 850px;
+			}
+
+#titulo_potens{
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:149px;
+			width: 425px;
+			margin-left: -107px;
+			background-color: black;
+			background-image: url(../Photos/rellotges/marques/potens/logo.jpg);
+			background-repeat: no-repeat;
+			background-position: center;
+			padding-top:0px;
+			}
+
+#titulo_citizen{
+			float:right;
+			position: relative;
+			float: left;
+			top:-1px;
+			left:0%;
+			height:149px;
+			width: 424px;
+			background-color: white;
+			background-image: url(../Photos/rellotges/marques/citizen/logo.png);
+			background-repeat: no-repeat;
+			background-position: center;
+			border-bottom: 1px solid black;
+			border-left: 1px solid black;
+			}
+
+#titulo_nowley{
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:149px;
+			width: 422px;
+			background-color: green;
+			background-color: white;
+			background-image: url(../Photos/rellotges/marques/nowley/logo.jpg);
+			background-repeat: no-repeat;
+			background-position: center;
+			border-top: 1px solid black;
+			border-right: 1px solid black;
+			}
+
+#titulo_sector{
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:150px;
+			width: 423px;
+			background-color: black;
+			background-image: url(../Photos/rellotges/marques/sector/logo.png);
+			background-repeat: no-repeat;
+			background-position: center;
+			}
+
+.show_relojes{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin-top: 60px;
+			width: 850px;
+			background-color: rgb(245,235,235);
+			}
+
+.productos{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			width: 850px;
+			height: auto;
+			background-color: white;
+			padding-bottom: 10px;	
+			}
+
+.titulo		{top: 15px;
+			background-color: rgb(164, 20, 20);
+			text-align: center;
+			padding-top: 3px;
+			margin: 0 auto;
+			width: 850px;
+			height: 25px;
+			color: white;
+			text-transform: uppercase;
+			border-top: 5px;
+			border-top-style: solid;
+			border-top-color: white;
+			}
+
+.todos		{
+			position: relative;
+			top: 0px;
+			left: 0px;
+			width: 100%;
+			height: auto;
+			}
+
+.z_trabajo  {
+			width: 233px;
+			height: 273px;
+			float:left;
+			margin:15px;
+			margin-bottom: 13px;
+			padding: 9px;
+			}
+
+.title 		{
+			color:black;
+			position: relative;
+			height: 20px;
+			width: 253px;
+			text-align: center;
+			padding-top: 10px;
+			font-size: 120%;
+			}
+
+.mas_info	{
+			margin: 0 auto;
+			position: relative;
+			height: auto;
+			width: 70px;
+			background-color: rgb(164,20,20);
+			text-align: center;
+			top: -19px;
+			color: white;
+			font-size: 90%;
+			border-top: 3px;
+		    border-top-style: solid;
+		    /*border-top-color: rgb(33,33,33);*/
+		    display: none;
+			}	
+
+a:hover .mas_info{
+			display: block;
+			}
+
+.relojes	{
+			/*border:1px solid rgb(214,212,212);*/
+			background-color: white;
+			padding: 9px;
+			border-radius:25px;
+			width: 233px;
+			height: 233px;
+			}
+
+.relojes img{
+			width:233px; 
+			height:233px;
+			}
+
+.background_relojes{
+			width: 100%;
+			height:auto;
+			background-color: white;
+			}
+
+.paginacion{
+			border-top: 1px solid black;
+			border-bottom: 1px solid black;
+			margin-top: 10px;
+			padding-top: 15px;
+			padding-bottom: 10px;
+			height: auto;
+			}
+
+.paginacion2{
+			border-top: 1px solid black;
+			border-bottom: 1px solid black;
+			margin-top: 10px;
+			padding-top: 15px;
+			padding-bottom: 10px;
+			height: auto;
+			}
+
+.mostrando{
+			color:black;
+			padding-left: 50px;
+			position: relative;
+			}
+
+.pagin 		{
+			position: relative;
+			color:black;
+			right: 50px;
+			/*background-color: green;*/
+			float: right;
+			}
+
+.cuadrito	{
+			position: relative;
+			margin-top:-25px;
+			height: 25px;
+			width: 25px;
+			padding-top: 3px;
+			background-color: black;
+			border:1px solid white;
+			color:white;
+			float: left;
+			text-align: center;
+			}
+
+.tipo		{ 
+			position: relative;
+			margin-top:-25px;
+			height: 25px;
+			width: 90px;
+			padding-top: 3px;
+			background-color: black;
+			border:1px solid white;
+			float: right;
+			color: white;
+			text-align: center;
+			right: 190px;
+			}

@@ -1,0 +1,329 @@
+@charset "utf-8";
+
+#cuerpo		{
+			top:0px;
+			left: 0px;
+			height: auto;
+			width: 100%;
+			position: relative;
+			
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			height: 1465px;
+			width: 850px;
+			background-color: white;
+			}
+
+#titulo{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/joies_olesa/imagen_titulo.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			}
+
+#descripcion{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 285px;
+			width: 850px;
+			padding-top: 15px;
+			background-color: white;
+			font-size: 18px;
+			}
+
+
+.contain_images{
+		position: relative;
+		top:0px;
+		left:0%;
+		height:153px;
+		width: 100%;
+		margin: 0.5%;
+		background-size:cover; 
+		cursor:pointer;
+}
+
+.imagen_coleccion{
+			position: relative;
+			float: left;
+			top:0px;
+			left:-0.5%;
+			height:153px;
+			width: 24%;
+			margin: 0.5%;
+			background-size:contain; 
+			background-color: black;
+			background-position: center;
+			background-repeat: no-repeat;;
+			cursor:pointer;
+			border-radius: 15px;
+			}
+
+.imagen_1{
+		background-image: url(../photos/col·leccions/joies_olesa/16.jpg);
+		background-color: white;
+		width: 115px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_2{
+		background-image: url(../photos/col·leccions/joies_olesa/29.jpg);
+		}
+
+.imagen_3{
+		background-image: url(../photos/col·leccions/joies_olesa/17.jpg);
+		}
+
+.imagen_4{
+		background-image: url(../photos/col·leccions/joies_olesa/19.jpg);
+		width: 125px;
+		left:50%;
+		margin-left: -62px
+		}
+
+.imagen_5{
+		background-image: url(../photos/col·leccions/joies_olesa/10.jpg);
+		background-color: white;
+		width: 115px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_6{
+		background-image: url(../photos/col·leccions/joies_olesa/14.jpg);
+		background-color: white;
+		width: 115px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_7{
+		background-image: url(../photos/col·leccions/joies_olesa/06.jpg);
+		background-color: white;
+		width: 143px;
+		left:50%;
+		margin-left: -71px
+		}
+
+.imagen_8{
+		background-image: url(../photos/col·leccions/joies_olesa/07.jpg);
+
+		}
+
+.imagen_9{
+		background-image: url(../photos/col·leccions/joies_olesa/05.jpg);
+		background-color: white;
+		width: 145px;
+		left:50%;
+		margin-left: -72px
+		}
+
+.imagen_10{
+		background-image: url(../photos/col·leccions/joies_olesa/13.jpg);
+		width: 114px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_11{
+		background-image: url(../photos/col·leccions/joies_olesa/24.jpg);
+		width: 187px;
+		left:50%;
+		margin-left: -93px
+		}
+
+.imagen_12{
+		background-image: url(../photos/col·leccions/joies_olesa/22.jpg);
+		}
+
+.imagen_13{
+		background-image: url(../photos/col·leccions/joies_olesa/23.jpg);
+		background-size:cover; 
+		}
+
+.imagen_14{
+		background-image: url(../photos/col·leccions/joies_olesa/25.jpg);
+		background-color: white;
+		width: 121px;
+		left:50%;
+		margin-left: -60px
+		}
+
+.imagen_15{
+		background-image: url(../photos/col·leccions/joies_olesa/21.jpg);
+		background-color: white;
+		width: 122px;
+		left:50%;
+		margin-left: -62px
+		}
+
+.imagen_16{
+		background-image: url(../photos/col·leccions/joies_olesa/12.jpg);
+		background-color: white;
+		width: 114px;
+		left:50%;
+		margin-left: -56px
+		}
+
+.imagen_17{
+		background-image: url(../photos/col·leccions/joies_olesa/33.jpg);
+		background-color: white;
+		width: 133px;
+		left:50%;
+		margin-left: -66px
+		}
+
+.imagen_18{
+		background-image: url(../photos/col·leccions/joies_olesa/32.jpg);
+		background-size:cover;
+		}
+
+.imagen_19{
+		background-image: url(../photos/col·leccions/joies_olesa/34.jpg);
+
+		}
+
+.imagen_20{
+		background-image: url(../photos/col·leccions/joies_olesa/30.jpg);
+		background-color: white;
+		width: 118px;
+		left:50%;
+		margin-left: -59px
+		}
+
+.imagen_21{
+		background-image: url(../photos/col·leccions/joies_olesa/15.jpg);
+		background-color: white;
+		width: 115px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_22{
+		background-image: url(../photos/col·leccions/joies_olesa/36.jpg);
+		background-color: white;
+		width: 114px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_23{
+		background-image: url(../photos/col·leccions/joies_olesa/37.jpg);
+		background-color: white;
+		width: 114px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_24{
+		background-image: url(../photos/col·leccions/joies_olesa/38.jpg);
+		background-color: white;
+		width: 114px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_25{
+		background-image: url(../photos/col·leccions/joies_olesa/35.jpg);
+		background-color: white;
+		width: 210px;
+		left:50%;
+		margin-left: -105px
+		}
+
+.imagen_26{
+		background-image: url(../photos/col·leccions/joies_olesa/39.jpg);
+		background-color: white;
+		width: 114px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_27{
+		background-image: url(../photos/col·leccions/joies_olesa/40.jpg);
+		background-color: white;
+		width: 114px;
+		left:50%;
+		margin-left: -57px
+		}
+
+.imagen_28{
+		background-image: url(../photos/col·leccions/joies_olesa/42.jpg);
+		top: 20px;
+	    background-size: cover;
+	    height: 117px;
+	    width: 200px;
+	    left: 50%;
+	    margin-left: -100px;
+		}
+
+.ir_galeria{
+		text-align: right;
+		position: relative;
+		top: 0px;
+		margin: 0 auto;
+		height: 0px;
+		width: 850px;
+		padding-top: 5px;
+		background-color: white;
+		font-size: 18px;
+    	float: bottom;
+}
+
+#transparente{
+		position: fixed;
+		top:0px;
+		left:0px;
+		height: 100%;
+		width:100%;
+		background-color: black;
+		z-index: 3;
+		opacity: 0.8;
+		margin: 0px;
+		display: none;
+}
+
+#photo_ampliada{
+		position: fixed;
+		margin-left: -225px;
+		top: 130px;
+		left:50%;
+		/*height: 500px;*/
+		width: 450px;
+		background-size: contain;
+		background-color: black;
+		border-radius: 15px;
+		opacity: 1;
+		z-index: 3;
+		display:none;	
+}
+
+#close{
+		position: fixed;
+		margin-right: -215px;
+		top: 140px;
+		right: 50%;
+		height: 30px;
+		width: 30px;
+		background-image: url(../photos/cross.png);
+		background-size:cover; 
+		cursor:pointer;
+		display: none;
+		z-index: 3;
+}

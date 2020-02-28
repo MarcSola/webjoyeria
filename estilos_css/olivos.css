@@ -1,0 +1,148 @@
+@charset "utf-8";
+
+#cuerpo		{
+			top:0px;
+			left: 0px;
+			height: auto;
+			width: 100%;
+			position: relative;
+			
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			height: 540px;
+			width: 850px;
+			background-color: white;
+			}
+
+#titulo{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/olives/olivos.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			}
+
+#descripcion{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 195px;
+			width: 850px;
+			padding-top: 15px;
+			background-color: white;
+			font-size: 18px;
+			}
+
+.contain_images{
+		position: relative;
+		top:0px;
+		left:0%;
+		height:285px;
+		width: 100%;
+		margin: 0.5%;
+		background-size:cover; 
+		cursor:pointer;
+}
+
+.imagen_coleccion{
+			position: relative;
+			float: left;
+			top:0px;
+			left:-0.5%;
+			height:280px;
+			width: 30%;
+			margin: 1.2%;
+			background-size:cover; 
+			cursor:pointer;
+			border-radius: 15px;
+			}
+
+.imagen_1{
+		background-image: url(../photos/col·leccions/olives/56.jpg);
+		background-position: 0px -36px;
+		}
+
+.imagen_2{
+		background-image: url(../photos/col·leccions/olives/58.jpg);
+		background-position: 0px -27px;
+		}
+
+.imagen_3{
+		background-image: url(../photos/col·leccions/olives/60.jpg);
+		background-position: -20px 14px;
+		}
+
+/*.imagen_4{
+		background-image: url(../photos/col·leccions/joies_olesa/29.jpg);
+		background-position: 0px 0px;
+    	background-size: 100%;
+    	background-repeat: no-repeat;
+		}
+
+.ir_galeria{
+		text-align: right;
+		position: relative;
+		top: 0px;
+		margin: 0 auto;
+		height: 0px;
+		width: 850px;
+		padding-top: 5px;
+		background-color: white;
+		font-size: 18px;
+    	float: bottom;
+} */
+
+#transparente{
+		position: fixed;
+		top:0px;
+		left:0px;
+		height: 100%;
+		width:100%;
+		background-color: black;
+		z-index: 3;
+		opacity: 0.8;
+		margin: 0px;
+		display: none;
+}
+
+#photo_ampliada{
+		position: fixed;
+		margin-left: -225px;
+		top: 130px;
+		left:50%;
+		/*height: 500px;*/
+		width: 450px;
+		background-size: contain;
+		background-color: black;
+		border-radius: 15px;
+		opacity: 1;
+		z-index: 3;
+		display:none;	
+}
+
+#close{
+		position: fixed;
+		margin-right: -215px;
+		top: 140px;
+		right: 50%;
+		height: 30px;
+		width: 30px;
+		background-image: url(../photos/cross.png);
+		background-size:cover; 
+		cursor:pointer;
+		display: none;
+		z-index: 3;
+}

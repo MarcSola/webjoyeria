@@ -1,0 +1,183 @@
+@charset "utf-8";
+#cuerpo		{
+			top:-20px;
+			left: 0px;
+			height: auto;
+			width: 100%;
+			position: relative;
+			padding-bottom: 20px;  
+			background-repeat: no-repeat;
+			background-position: center; 
+			background-size: cover;
+			background-image: url(../photos/qui_som/Foto_entrada.jpg);
+			background-color: black;
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:25px;
+			left: 0px;
+			margin: 0 auto;
+			height: auto;
+			width: 850px;
+			padding: 25px;
+			padding-top: 0px;
+			}
+
+#titulo_quienes_somos{
+			position: relative;
+			top:0px;
+			left:0%;
+			margin-top: 20px;
+			height:20px;
+			width: 100%;
+			}
+
+#contenido{
+			position: relative;
+			top:0px;
+			left:0%;
+			margin-top: 0px;
+			height:auto;
+			width: 93.5%;
+			padding: 25px;
+			padding-top: 0px;
+			background-color: black;
+			border: 2px solid gray;
+			border-radius: 10px;
+			}
+
+#foto_aparador{
+			margin: 0 auto;
+			top:20px;
+			left: 0px;
+			height: 340px;
+			width: 95%;
+			position: relative;
+			background-repeat: no-repeat;
+			background-position: 0px -105px; 
+			background-size: cover;
+			background-image: url('../photos/artesania_i_restauracio/Dissenys propis/02.jpg');
+			background-color: black;
+			border: 2px solid gray;
+			border-radius: 10px;
+			}
+
+#titulo{
+		margin: 0 auto;
+		top:30px;
+		left: 0px;
+		height: 50px;
+		width: 95%;
+		position: relative;
+		text-align: right;
+		color: #FF9900;	
+		font-size: 17px;
+}
+
+#cuadro_texto{
+		margin: 0 auto;
+		top: 10px;
+		left: 0px;
+		height: auto;
+		width: 95%;
+		position: relative;
+		padding: 15px;
+		margin-bottom: 7px;
+		background: #111111;
+		border: 1px solid #222222;
+		color: #eaeaea;
+		border-radius: 5px;
+}
+
+.image{
+		position: relative;
+		margin:8px;
+		margin-left:25px;
+		float: right;
+		width:45%;
+		background-size: contain;
+		background-repeat: no-repeat;
+		border: 2px solid gray;
+		border-radius: 10px;
+}
+.image2{
+		position: relative;
+		top:63px;
+		margin:8px;
+		margin-left:25px;
+		float: left;
+		height:403px;
+		width:45%;
+		background-size: contain;
+		background-repeat: no-repeat;
+		border: 2px solid gray;
+		border-radius: 10px;
+}
+.image3{
+		position: relative;
+		margin:8px;
+		margin-left:25px;
+		float: left;
+		width:45%;
+		background-size: contain;
+		background-repeat: no-repeat;
+		border: 2px solid gray;
+		border-radius: 10px;
+}
+#div_bot{
+			position: relative;
+			margin-bottom: -20px;
+			top:-20px;
+			left:0%;
+			height:20px;
+			width: 100%;
+			}
+
+/*#imagen_fundacion{
+			position: absolute;
+			top:120px;
+			left:0%;
+			height:350px;
+			width: 27%;
+			margin-top: 4%;
+			margin-left: 20%;
+			margin-right: 3%;
+			background-color: green;
+			}
+
+#textos_arriba_derecha{
+			position: absolute;
+			top:120px;
+			left:23.5%;
+			height:370px;
+			width: 31.5%;
+			margin-top: 4%;
+			margin-left: 25%;
+			margin-right: 20%;
+			background-color: orange;
+			}
+
+#textos_abajo_izquierda{
+			position: absolute;
+			top:510px;
+			left:0%;
+			height:370px;
+			width: 31.5%;
+			margin-top: 4%;
+			margin-left: 20%;
+			margin-right: 25%;
+			background-color: blue;
+			}
+
+#foto_muestra{
+			position: absolute;
+			top: 510px;
+			left: 28%;
+			height:350px;
+			width: 27%;
+			margin-top: 4%;
+			margin-left: 25%;
+			margin-right: 3%;
+			background-color: red;
+			}*/

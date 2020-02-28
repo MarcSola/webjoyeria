@@ -1,0 +1,142 @@
+@charset "utf-8";
+
+#barras_negras{
+			position: relative;
+			bottom: 0px;
+			left:0;
+			height:	40px;
+			width: 100%;
+			background-color: white;
+			z-index: 1;
+			}
+
+#barras_negras_int{
+			position: relative;
+			bottom: 0;
+			left: 2.5%;
+			height: 40px;
+			width: 95%;
+			border-bottom: 1px solid;
+			border-top: 1px solid;
+			}
+
+#barras_negras_general{
+			position: relative;
+			top:0;
+			height: 40px;
+			width:850px;
+			margin: 0 auto;
+			
+			}
+
+#colecciones_olesa{
+			position:relative;
+			top:0px;
+			left:0px;
+			float:left;
+			margin-top: 10px;
+			margin-left: 80px;
+			height: 20px;
+			width: 150px;
+			
+			}
+
+#colecciones_olesa_wingartenbaden{
+			position:relative;
+			top:0px;
+			left: 0px;
+			margin-top: 10px;
+			margin-left: 70px;
+			float: left;
+			height: 20px;
+			width: 250px;
+			
+			}
+
+#reparacion_relojes{
+			position:relative;
+			top:0px;
+			left: 0px;
+			margin-top: 10px;
+			margin-left: 70px;
+			float:left;
+			height: 20px;
+			width: 150px;
+			
+			}
+
+#pie_de_pagina{
+			position: relative;
+			bottom: 0;
+			height: 160px;
+			width: 850px;
+			margin: 0 auto;
+			background-color: white;
+			background-size: 100% 100%;
+			}
+
+#logo3		{		
+			position: relative;
+			top: 20px;
+			left: 30px;
+			height: 125px;
+			width: 102px;
+			background-repeat: no-repeat;
+			background-position: center; 
+			background-size: 102px 125px;
+			background-image: url(../photos/otros/logo_olesa.png);
+			float:left;
+			margin-left: 50px;
+			}
+
+#lista_info_1{
+			float: left;
+			position:relative;
+			top: 20px;
+			left: 0%;
+			height:100px;
+			width: 200px;
+			margin-left: 100px;
+			padding-top: 25px;
+			padding-right: 30px;
+			border-right: 1px solid;
+			}
+
+#lista_info_2{
+			position: relative;
+			top: 40px;
+			left: 0px;
+			height: 75px;
+			width: 200px;
+			margin-left: 80px;
+			float:left;
+			padding-top: 25px;
+			}
+
+#logo_face{
+			position: relative;
+			top: -10px;
+			left: 30px;
+			height: 40px;
+			width: 40px;
+			background-repeat: no-repeat;
+			background-position: center; 
+			background-size: 100% 100%;
+			background-image: url(../photos/otros/facebook.png);
+			float:left;
+			margin-left: 50px;
+			}
+
+#logo_instagram{
+			position: relative;
+			top: -10px;
+			left: 30px;
+			height: 40px;
+			width: 40px;
+			background-repeat: no-repeat;
+			background-position: center; 
+			background-size: 100% 100%;
+			background-image: url(../photos/otros/instagram.jpg);
+			float:left;
+			margin-left: 50px;
+			}

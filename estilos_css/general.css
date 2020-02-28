@@ -1,0 +1,61 @@
+@charset "utf-8";
+
+ul 			{list-style: none;}
+table 		{color:white;}
+a 			{text-decoration: none;
+			color: black;
+			cursor: pointer;}
+
+@font-face {
+    font-family: "Minion_Pro_Regular";
+    src: url("../fonts/Minion_Pro_Regular.ttf") format("truetype");
+	}
+
+@font-face {
+    font-family: "Century_Gothic";
+    src: url("../fonts/Century_Gothic.ttf") format("truetype");
+	}
+
+@font-face {
+    font-family: "Brandon_Grotesque";
+    src: url("../fonts/Brandon_Grotesque.ttf") format("truetype");
+	}
+
+
+body		{
+			margin:0px;
+			letter-spacing: 0px;
+  			font-family: Minion_Pro_Regular, Century_Gothic, Brandon_Grotesque, sans-serif;
+  			font-style: normal;
+  			text-transform: none;
+  			background-color: white;
+  			height: auto;
+			}
+
+footer		{
+			background-color: white;
+			bottom: 0px;
+			}
+
+ul 			{
+			list-style-type: none;
+			list-style:none;
+			margin:0;
+			padding: 0;
+
+			}
+
+a 			{
+			text-decoration: none;
+			cursor: pointer;
+			}
+
+.cursiva	{
+			font-style: italic;
+			color: white;	
+			}
+
+.negrita	{
+			font-weight:bold;
+			}
+

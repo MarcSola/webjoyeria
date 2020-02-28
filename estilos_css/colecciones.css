@@ -1,0 +1,121 @@
+@charset "utf-8";
+
+.zoom{
+        /* Aumentamos la anchura y altura durante 2 segundos */
+        transition: width 4s, height 4s, transform 4s;
+        -moz-transition: width 4s, height 4s, -moz-transform 4s;
+        -webkit-transition: width 4s, height 4s, -webkit-transform 4s;
+        -o-transition: width 4s, height 4s,-o-transform 4s;
+    }
+    .zoom:hover{
+        /* tranformamos el elemento al pasar el mouse por encima al 1.25 de
+           su tamaño con scale(1.25). */
+        transform : scale(1.25);
+        -moz-transform : scale(1.25);      /* Firefox */
+        -webkit-transform : scale(1.25);   /* Chrome - Safari */
+        -o-transform : scale(1.25);        /* Opera */
+        float: bottom;
+    }
+
+#joyas_olesa{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/joies_olesa/imagen_titulo.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			cursor: pointer;
+			/*z-index: -1;*/
+			}
+
+#angel_demonio{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/angel_dimoni/plaza_fuentes.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			cursor: pointer;
+			}
+
+#olivos{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/olives/olivos.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			cursor: pointer;
+			}
+
+#joyas_de_weingarten{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/joies_weingarten/weingarten.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			cursor: pointer;
+			}
+
+#montserrat{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/montserrat/montserrat.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			cursor: pointer;
+			}
+
+#puente_del_diablo{
+			position: relative;
+			top: 0px;
+			margin: 0 auto;
+			height: 140px;
+			width: 100%;
+			padding-top: 77px;
+			background-color: white;
+			background-image: url(../photos/col·leccions/puente_del_diablo/puente_diablo.jpg);
+			background-repeat: no-repeat;
+			background-size:cover; 
+			color: white;
+			font-size: 50px;
+			text-align: center;
+			cursor: pointer;
+			}

@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+#cuerpo		{
+			top:0px;
+			left: 0px;
+			height: 600px;
+			width: 100%;
+			position: relative;
+			
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			height: 500px;
+			width: 850px;
+			background-color: rgb(245,235,235);
+			}
+
+#div_marcas{
+			position: relative;
+			top: 50px;
+			margin: 0 auto;
+			height: 300px;
+			width: 850px;
+			background-color: white;
+			}
+
+#titulo_potens{
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:100px;
+			width: 25%;
+			margin-left: -107px;
+			background-color: blue;
+			}
+#titulo_citizen{
+			float:right;
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:100px;
+			width: 25%;
+			background-color: red;
+			}
+
+#titulo_nowley{
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:100px;
+			width: 25%;
+			background-color: green;
+			}
+
+#titulo_sector{
+			position: relative;
+			float: left;
+			top:0px;
+			left:0%;
+			height:100px;
+			width: 25%;
+			background-color: orange;
+			}

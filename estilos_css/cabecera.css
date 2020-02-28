@@ -1,0 +1,388 @@
+@charset "utf-8";
+
+#barra_sup_all{
+			top: 0px;
+			width: 100%;
+			height: 25px;
+			background-color: white;
+			}
+
+#barra_sup	{
+			top: 0px;
+			width: 850px;
+			height: 25px;
+			margin: 0 auto;
+			position: relative;
+			background-color: white;
+			}
+
+#barra_sup_idiomas{
+			top:0px;
+			width: 116px;
+			height: 20px;
+			position: relative;
+			text-align: center;
+			padding-top: 5px;
+			font-size: 90%;
+			float:left;
+			cursor: pointer;
+			background-color: white;
+			}
+
+#barra_sup1 {
+			top: 0px;
+			width: 325px;
+			height: 20px;
+			position: relative ;
+			text-align: center;
+			padding-top: 5px;
+			font-size: 80%;
+			float:right;
+			cursor: pointer;
+			background-color: white;
+			}
+
+#cabecera 	{
+			top: 0px;
+			width: 100%;
+			height: 105px;
+			position: relative;
+			background-color: black;
+			margin: 0 auto;
+			color: white;
+			z-index: 2;
+			}
+
+#cabecera_interior{
+			top: 0px;
+			width: 850px;
+			height: 105px;
+			position: relative;
+			background-color: black;
+			margin: 0 auto;
+			color: white;
+			}
+
+#logo1		{
+			top:0px;
+			height: 125px;
+			width: 102px;
+			margin-right:5px; 
+			position: relative;
+			background-repeat: no-repeat;
+			background-position: center; 
+			background-size: 102px 125px;
+			background-image: url(../photos/otros/logo_olesa.png);
+			float: left;
+			z-index: 2;
+			}
+
+#logo2		{
+			top:0px;
+			left: 0px;
+			height: 40px;
+			width: 150px;
+			margin-right:5px; 
+			position: relative;
+			background-repeat: no-repeat;
+			background-position: center; 
+			margin-right: 50px;
+			padding: 20px;
+			padding-left: 10px;
+			padding-right: 10px;
+			float: left ;
+			}
+
+.fondo_blanco{
+			width: 850px;
+			height: 350px;
+			top: 0px;
+			left: 0px;
+			position: relative;
+			background-color: white;
+			z-index: 5;
+			display: block;
+			}
+
+.seccion	{
+			top: 65px;
+			left: 0px;
+			height: 20px;
+			position: relative;
+			float: left;
+			text-align: center;
+			font-size: 95%;
+			padding: 10px;
+			}
+
+#seccion_tamano1{
+			width: 180px;
+			margin-left: -107px;
+			}	
+
+#seccion_tamano1:hover{
+			top: 65px;
+			left: 0px;
+			height: 30px;
+			padding-bottom: 0;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;			
+			background-image: url(../photos/otros/secciont1.png);
+			}
+
+#seccion_tamano2{
+			width:70px;
+			}
+
+#seccion_tamano2:hover{
+			cursor:pointer;
+			top: 65px;
+			left: 0px;
+			height: 30px;
+			padding-bottom: 0;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;			
+			background-image: url(../photos/otros/secciont2.png);
+			}	
+
+#seccion_tamano3{
+			width: 70px;
+			}	
+
+#seccion_tamano3:hover{
+			
+			top: 65px;
+			left: 0px;
+			height: 30px;
+			padding-bottom: 0;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;			
+			background-image: url(../photos/otros/secciont2.png);
+			}	
+
+#seccion_tamano4{
+			width: 90px;
+			}	
+
+#seccion_tamano4:hover{
+			cursor:pointer;
+			top: 65px;
+			left: 0px;
+			height: 30px;
+			padding-bottom: 0;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;			
+			background-image: url(../photos/otros/secciont3.png);
+			}	
+
+#seccion_tamano5{
+			width: 120px;
+			}
+
+#seccion_tamano5:hover{
+			top: 65px;
+			left: 0px;
+			height: 30px;
+			padding-bottom: 0;
+			background-position: center;
+			background-repeat: no-repeat;
+			background-size: 100% 100%;
+			background-position: center;			
+			background-image: url(../photos/otros/secciont2.png);
+			}		
+
+#subseccion1{
+			top:40px;
+			left: -222px;
+			height: 350px;
+			width: 700px;
+			margin: 0 auto;
+			position: absolute;
+			color: black;
+			z-index: 1;
+			background-color: white;
+			float:left;
+			visibility:hidden;
+  			opacity:0;
+			}
+
+#subseccion2{
+			top:40px;
+			left: -422px;
+			height: 350px;
+			width: 850px;
+			margin: 0 auto;
+			position: absolute;
+			color: black;
+			z-index: 1;
+			background-color: white;
+			float:left;
+			visibility:hidden;
+  			opacity:0;
+  			
+			}
+
+#subseccion3{
+			top:40px;
+			left: -512px;
+			height: 350px;
+			width: 850px;
+			margin: 0 auto;
+			position: absolute;
+			color: black;
+			z-index: 1;
+			background-color: white;
+			float:left;
+			visibility:hidden;
+  			opacity:0;
+  			
+			}
+
+#subseccion4{
+			top:40px;
+			left: -602px;
+			height: 350px;
+			width: 850px;
+			margin: 0 auto;
+			position: absolute;
+			color: black;
+			z-index: 1;
+			background-color: white;
+			float:left;
+			visibility:hidden;
+  			opacity:0;
+			}
+
+
+#subseccion5{
+			top:40px;
+			left: -712px;
+			height: 350px;
+			width: 850px;
+			margin: 0 auto;
+			position: absolute;
+			color: black;
+			z-index: 1;
+			background-color: white;
+			float:left;
+			visibility:hidden;
+  			opacity:0;
+  			transition:visibility 0s ease-in-out 0.75s,opacity 0.75s ease-in-out;
+			}
+
+.seccion_tamano5:hover .subseccion5{
+			visibility:visible;
+  			opacity:1;
+  			transition-delay:0s;
+			}
+
+.seccion_texto{ 
+			top: 0px;
+			width:850px;
+			height: 350px;
+			margin: 0 auto;
+			position: relative;
+			}
+
+.seccion_titulo{
+			top:20px;
+			width:42%;
+			height:45px;
+			left:0px;
+			position:relative;
+			padding: 20px;
+			padding-left: 30px;
+			font-size: 160%;
+			text-align: left;
+			}
+
+.lista 		{
+			width:42%;
+			height:150px;
+			left:0px;
+			position:relative;
+			padding: 32px;
+			padding-top: 10px;
+			font-size: 100%;
+			text-align: left;
+			line-height: 30px;
+			float: left;
+			}
+
+#imagenAR 	{
+			width: 300px;
+			height: 250px;
+			left:180px;
+			top:-120px;
+			margin-left: 190px;
+			background-color: white;
+			background-image: url(../Photos/artesania_i_restauracio/reloj_antiguo.jpg);
+			background-size: contain;
+			position:relative;
+			background-repeat: no-repeat;
+			z-index: 5;
+			}
+
+#imagenRelojes 	{
+			width: 600px;
+			height: 265px;
+			left:70px;
+			top:-50px;
+			margin-left: 150px;
+			background-color: white;
+			background-image: url(../Photos/rellotges/reloj.jpg);
+			background-size: contain;
+			position:relative;
+			background-repeat: no-repeat;
+			}
+
+#imagenJoyeria{
+			width: 600px;
+			height: 200px;
+			left:90px;
+			top:-50px;
+			margin-left: 150px;
+			background-color: white;
+			background-image: url(../Photos/joieria/joieria.jpg);
+			background-size: contain;
+			position:relative;
+			background-repeat: no-repeat;
+			}
+
+#imagenColecciones{
+
+
+			width: 450px;
+		    height: 241px;
+		    left: 120px;
+		    top: -37px;
+		    margin-left: 224px;
+			background-color: white;
+			background-image: url(../Photos/col·leccions/photo_cabecera.png);
+			background-size: contain;
+			background-repeat: no-repeat;
+			position:relative;
+			}
+
+#imagenRegalos{
+			width: 312px;
+			height: 256px;
+			left: 150px;
+			top:-75px;
+			margin-left: 240px;
+			background-color: white;
+			background-image: url(../Photos/regals/regal.jpg);
+			background-size: contain;
+			position:relative;
+			background-repeat: no-repeat;
+			border-radius: 10px;
+			}
+

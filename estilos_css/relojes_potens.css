@@ -1,0 +1,193 @@
+@charset "utf-8";
+
+#cuerpo		{
+			top:0px;
+			left: 0px;
+			height: 380px;
+			width: 100%;
+			position: relative;
+			background-color: black;
+			
+			}
+
+#zona_trabajo_body{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			width: 850px;
+			height: 420px;
+			background-color: black;
+			}
+
+#titulo_potens{
+			position: relative;
+			float: left;
+			margin: 0 auto;
+			height:150px;
+			width: 100%;
+			margin-color:white;
+			background-image: url(../Photos/rellotges/marques/potens/logo.jpg);
+			background-repeat: no-repeat;
+			background-position: center;
+			padding-top:0px;
+			}
+
+.tit_text	{
+			top: 0px;
+			width: 100%;
+			position: relative;
+			color:white;
+			/*text-align: center;*/
+			margin: 0 auto;
+			font-size: 0.9em;
+			}
+
+.productos{
+			position: relative;
+			top:0px;
+			left: 0px;
+			margin: 0 auto;
+			width: 850px;
+			height: auto;
+			background-color: black;
+			padding-bottom: 10px;	
+			}
+
+.titulo		{top: 15px;
+			background-color: rgb(164, 20, 20);
+			text-align: center;
+			padding-top: 3px;
+			margin: 0 auto;
+			width: 850px;
+			height: 25px;
+			color: white;
+			text-transform: uppercase;
+			border-top: 5px;
+			border-top-style: solid;
+			border-top-color: black;
+			}
+
+.todos		{
+			position: relative;
+			top: 0px;
+			left: 0px;
+			width: 100%;
+			height: auto;
+			}
+
+.z_trabajo  {
+			width: 233px;
+			height: 273px;
+			float:left;
+			margin:15px;
+			margin-bottom: 13px;
+			padding: 9px;
+			}
+
+.title 		{
+			color:rgb(180,180,180);
+			position: relative;
+			height: 20px;
+			width: 253px;
+			text-align: center;
+			padding-top: 10px;
+			font-size: 120%;
+			}
+
+.mas_info	{
+			margin: 0 auto;
+			position: relative;
+			height: auto;
+			width: 70px;
+			background-color: rgb(164,20,20);
+			text-align: center;
+			top: -19px;
+			color: white;
+			font-size: 90%;
+			border-top: 3px;
+		    border-top-style: solid;
+		    border-top-color: rgb(33,33,33);
+		    display: none;
+			}	
+
+a:hover .mas_info{
+			display: block;
+			}
+
+.relojes	{
+			/*border:1px solid rgb(214,212,212);*/
+			background-color: black;
+			padding: 9px;
+			border-radius:25px;
+			width: 233px;
+			height: 233px;
+			}
+
+.relojes img{
+			width:233px; 
+			height:233px;
+			}
+
+.background_relojes{
+			width: 100%;
+			height:auto;
+			background-color: black;
+			}
+
+.paginacion{
+			border-top: 1px solid rgb(214,212,212);
+			border-bottom: 1px solid rgb(214,212,212);
+			margin-top: 10px;
+			padding-top: 15px;
+			padding-bottom: 10px;
+			height: auto;
+			}
+
+.paginacion2{
+			border-top: 1px solid rgb(214,212,212);
+			border-bottom: 1px solid rgb(214,212,212);
+			margin-top: 10px;
+			padding-top: 15px;
+			padding-bottom: 10px;
+			height: auto;
+			}
+
+.mostrando{
+			color:white;
+			padding-left: 50px;
+			position: relative;
+			}
+
+.pagin 		{
+			position: relative;
+			color:black;
+			right: 50px;
+			background-color: green;
+			float: right;
+			}
+
+.cuadrito	{
+			position: relative;
+			margin-top:-25px;
+			height: 25px;
+			width: 25px;
+			padding-top: 3px;
+			background-color: white;
+			border:1px solid black;
+			float: left;
+			text-align: center;
+			}
+
+.tipo		{ 
+			position: relative;
+			margin-top:-25px;
+			height: 25px;
+			width: 90px;
+			padding-top: 3px;
+			background-color: white;
+			border:1px solid black;
+			float: right;
+			text-align: center;
+			right: 190px;
+			}

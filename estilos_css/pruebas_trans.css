@@ -1,0 +1,18 @@
+@charset "utf-8";
+
+#bloke1{
+	top:0px;
+	left: 0px;
+	height: 350px;
+	width: 500px;
+	position: relative;
+	background-color: red;
+	visibility: visible;
+	-webkit-transition: width 0.75s ease-out;
+	transition: width 0.75s ease-out;
+	}
+
+#bloke1:hover{
+	width: 1000px;
+	visibility: visible;
+}

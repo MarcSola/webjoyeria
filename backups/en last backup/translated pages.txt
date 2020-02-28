@@ -1,0 +1,72 @@
+translated pages
+
+cabecera
+pie de pagina
+colecciones
+relojes_antiguos
+disenos_propios
+contactanos
+quienes_somos
+grabados
+regalos personalizados
+marca_relojes
+producto_reloj
+relojes_nowley
+relojes_sector
+relojes_citizen
+relojes_potens
+joyas_olesa
+galeria_jo
+angel_demonio
+galeria_ad
+olivos
+joyas_de_weingarten
+galeria_wb
+montserrat
+galeria_montserrat
+puente del diablo
+galeria_puente del diablo
+
+remaining pages texts
+
+anillos
+
+	tit_text
+
+		(
+		Our firm is crafting jewelry since 1954. Wedding rings, gold medals, other pieces of jewelry will accompany the best moments of your life.
+
+		<br><br>
+
+		Our passion is what brings us to immerse ourselves in the world of online jewelry: both, this website and social networks are where we want to take you closer to our world.
+		)
+
+	titulo_anillos_(num)
+
+		WHITE GOLD ENGAGEMENT RINGS
+		ROSE GOLD ENGAGEMENT RINGS
+		YELLOW GOLD ENGAGEMENT RINGS
+		SOLITAIRE RINGS
+
+alianzas
+
+	tit_text
+
+		(
+		Our firm is crafting jewelry since 1954. Wedding rings, gold medals, other pieces of jewelry will accompany the best moments of your life.
+
+		<br><br>
+
+		Our passion is what brings us to immerse ourselves in the world of online jewelry: both, this website and social networks are where we want to take you closer to our world.
+		)
+
+	titulo_anillos_(num)
+
+		GOLD WEDDING RINGS
+		TWO-TONE WEDDING RINGS
+		ROSE GOLD WEDDING RINGS
+		ARGYOR WEDDING RING DESIGN
+		CLASSIC WEDDING RINGS
+		DIAMOND WEDDING RINGS
+		WHITE WEDDING RING
+		YELLOW GOLD WEDDING RINGS
